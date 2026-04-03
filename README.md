@@ -116,11 +116,6 @@ Matplotlib
 ![image](https://github.com/user-attachments/assets/9775d77e-3001-490d-a833-9bf8eda8b4e4)
 
 ---
-## ✅ To Use This
-
-1. Save the content above in a file named `README.md` inside your project root folder.
-2. Then run:
-
 ```bash
 git add README.md
 git commit -m "Add project README"
