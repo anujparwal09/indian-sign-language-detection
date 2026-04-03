@@ -116,8 +116,3 @@ Matplotlib
 ![image](https://github.com/user-attachments/assets/9775d77e-3001-490d-a833-9bf8eda8b4e4)
 
 ---
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
-----
